@@ -1,0 +1,2 @@
+# Planning
+Update required runtime version in configuration
